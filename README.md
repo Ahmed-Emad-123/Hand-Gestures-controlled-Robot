@@ -1,5 +1,4 @@
 # Hand-Gestures-controlled-Robot
-# Self-Balancing-Robot
 ## Basic Overview:
 This repository contains the code, instructions, and resources for building and programming a hand gesture controlled robot using two Arduino boards, MPU6050 gyroscopes, two motors, and kinematic control principles. The robot uses hand gestures detected by the gyroscopes and applies kinematic calculations to control the speed and direction of the motors, enabling precise and intuitive movement.
 
